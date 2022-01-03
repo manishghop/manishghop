@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ### Visitor Count ![Visitor Count](https://profile-counter.glitch.me/{manishghop}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishghop&label=Profile%20views&color=0e75b6&style=flat" alt="manishghop" /> </p>
